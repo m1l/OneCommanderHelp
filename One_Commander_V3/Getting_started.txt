@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-06T14:14:51-04:00
+
+====== Getting started ======
+
+This will list a series of steps for getting started with OC, including some basic concepts such as the two main layouts, how to keep the app up to date, etc.
