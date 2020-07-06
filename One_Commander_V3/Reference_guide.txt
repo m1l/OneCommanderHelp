@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-06T14:16:41-04:00
+
+====== Reference guide ======
+
+Based on the reference guide in V2, go through the different features of V3
+
+
