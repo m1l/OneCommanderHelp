@@ -4,8 +4,6 @@ Another line from Second Developer
 Third line from m1l
 and Added 4th from m1l
 5th from Second
-<<<<<<< Updated upstream
 6th also from m1l
-=======
 6th from Second
->>>>>>> Stashed changes
+7th update from m1l
